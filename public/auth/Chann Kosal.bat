@@ -1,0 +1,1 @@
+xcopy "C:\xampp\htdocs\adap\PlanB\base-member\Kosal\vss" "\\192.168.0.12\Web\baseTeam\vss" /h/i/c/k/e/r/y

@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b7ae62f-dd95-4c9c-859d-eb509dd3be76" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>update-status-order</find>
+      <find>getUpdateStatusOrder</find>
+      <find>filterOrder</find>
+      <find>leader-first-get-orde</find>
+      <find>create-user</find>
+      <find>getCreateUser</find>
+      <find>delete-group</find>
+      <find>message</find>
+      <find>messageLeader</find>
+      <find>getDeleteGroup</find>
+      <find>Stock</find>
+      <find>notificationLeader</find>
+      <find>getNotificationLeader</find>
+      <find>notification</find>
+      <find>member-view-base</find>
+      <find>wheer</find>
+      <find>leader-first-directory</find>
+      <find>getLeaderDirectory</find>
+      <find>getLeaderFirstGetOrder</find>
+      <find>getFirstReport</find>
+      <find>first-leader-report</find>
+      <find>getMemberViewBase</find>
+      <find>leader-first-get-order</find>
+      <find>getFilterOrder</find>
+      <find>leader.leaderFirstGetOrder</find>
+      <find>member_name</find>
+      <find>leader-first-get-base</find>
+      <find>getLeaderFirstGetBase</find>
+      <find>leader-qc-check-base</find>
+      <find>admin-manage</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>MONTH</replace>
+      <replace>$myTime</replace>
+      <replace>ordersBlades</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Dell E6330\Desktop\ErrorFix\ErrorFix -9-AM</dir>
+      <dir>E:\MyTask\Teshis</dir>
+      <dir>E:\MyTask\Teshis\Plan-B</dir>
+      <dir>C:\xampp\htdocs\adap\FinalProject</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/leader/editVersion.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/type.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/editType.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/createPath.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/member/createPath.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/member/tool.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/member/viewLayout.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/baseMember.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/addNewOrder.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/member/qc.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout/manager/widget/navbar.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout/manager/widget/header.blade.php" />
+        <option value="$PROJECT_DIR$/storage/framework/views/96467c989f44845f98a118525d3135a968aa96bb.php" />
+        <option value="$PROJECT_DIR$/resources/views/manager/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/manager/report.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/member/profile.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/pattern.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/profile.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/member/memberSubDirectory.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/member/createBase.blade.php" />
+        <option value="$PROJECT_DIR$/storage/framework/views/45d36ed8315cfead02b6ebeeddc6d9e3d37cf710.php" />
+        <option value="$PROJECT_DIR$/public/login/css/style.css" />
+        <option value="$PROJECT_DIR$/resources/views/leader/getBaseSearch.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/getCheckBase.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout/leaders/widget/headerQC.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/getBaseList.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/user.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/editUser.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/getCheckFirst.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/member/directory.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout/member/widget/navbar.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/firstDirectory.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout/manager/master.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout/member/master.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/member/createFirst.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/MemberController.php" />
+        <option value="$PROJECT_DIR$/resources/views/member/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/member/otherMember.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout/leaders/widget/navbar.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout/leaders/widget/header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout/member/widget/header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/member/getBase.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/reportResult.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/leaderFirstGetOrder.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/LeaderController.php" />
+        <option value="$PROJECT_DIR$/resources/views/layout/leaders/widget/headerFirst.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/leader/leaderFirstGetBase.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/manage.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpexcel" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-dompdf" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/spatie/db-dumper" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-backup" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Problems" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Problems">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="External Dependencies">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="E:">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="MyTask">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="2017">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="8-2017">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="employee-management-system-plan-b">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FinalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FinalProject" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FinalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FinalProject" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FinalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FinalProject" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/xampp/htdocs/adap/FinalProject/resources/views/manager/report.blade.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell E6330\Desktop\ErrorFix\ErrorFix -9-AM\app\Http\Controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ErrorFix -9-AM\public" />
+      <recent name="C:\Users\Dell E6330\Desktop\ErrorFix\ErrorFix -9-AM\public\icon" />
+      <recent name="C:\Users\Dell E6330\Desktop\ErrorFix\ErrorFix -9-AM\public\layout" />
+      <recent name="C:\Users\Dell E6330\Desktop\ErrorFix\ErrorFix -9-AM\resources\views\member" />
+      <recent name="C:\Users\Dell E6330\Desktop\ErrorFix\ErrorFix -9-AM\resources\views\leader" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b7ae62f-dd95-4c9c-859d-eb509dd3be76" name="Default" comment="" />
+      <created>1493950264375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493950264375</updated>
+      <workItem from="1493950265528" duration="5884000" />
+      <workItem from="1494392811507" duration="198000" />
+      <workItem from="1494393046623" duration="8074000" />
+      <workItem from="1494457457232" duration="975000" />
+      <workItem from="1494569035919" duration="10508000" />
+      <workItem from="1494646428099" duration="7838000" />
+      <workItem from="1494677093909" duration="600000" />
+      <workItem from="1494721158617" duration="828000" />
+      <workItem from="1495234493602" duration="1171000" />
+      <workItem from="1495261944807" duration="1247000" />
+      <workItem from="1495263776838" duration="3408000" />
+      <workItem from="1495284358132" duration="2082000" />
+      <workItem from="1495330130273" duration="10380000" />
+      <workItem from="1495762881200" duration="5202000" />
+      <workItem from="1495769387407" duration="3170000" />
+      <workItem from="1496367094965" duration="12986000" />
+      <workItem from="1496618198852" duration="7416000" />
+      <workItem from="1496653422945" duration="2147000" />
+      <workItem from="1496655612681" duration="9000" />
+      <workItem from="1496655824954" duration="69000" />
+      <workItem from="1496655955752" duration="859000" />
+      <workItem from="1497394413163" duration="2681000" />
+      <workItem from="1497417994360" duration="1782000" />
+      <workItem from="1497439963421" duration="7051000" />
+      <workItem from="1497525398081" duration="8687000" />
+      <workItem from="1497562484694" duration="6966000" />
+      <workItem from="1497624089194" duration="12968000" />
+      <workItem from="1497648870902" duration="4207000" />
+      <workItem from="1497658889783" duration="2225000" />
+      <workItem from="1497688901004" duration="1421000" />
+      <workItem from="1497739103121" duration="1925000" />
+      <workItem from="1497749194372" duration="9085000" />
+      <workItem from="1497766342659" duration="4986000" />
+      <workItem from="1497827052319" duration="13163000" />
+      <workItem from="1497901726700" duration="3498000" />
+      <workItem from="1497994459228" duration="1431000" />
+      <workItem from="1498183834900" duration="8583000" />
+      <workItem from="1498876649311" duration="11130000" />
+      <workItem from="1499044516842" duration="626000" />
+      <workItem from="1500081249159" duration="7812000" />
+      <workItem from="1500089408819" duration="4819000" />
+      <workItem from="1500095573638" duration="846000" />
+      <workItem from="1500154514200" duration="6043000" />
+      <workItem from="1500183245965" duration="18640000" />
+      <workItem from="1500290211757" duration="2370000" />
+      <workItem from="1500385205122" duration="4888000" />
+      <workItem from="1500470606881" duration="2365000" />
+      <workItem from="1500477222625" duration="710000" />
+      <workItem from="1500479033686" duration="857000" />
+      <workItem from="1500589437565" duration="2315000" />
+      <workItem from="1500639381301" duration="4227000" />
+      <workItem from="1500686265811" duration="16890000" />
+      <workItem from="1500732206514" duration="3740000" />
+      <workItem from="1500767737837" duration="14026000" />
+      <workItem from="1500792501937" duration="3011000" />
+      <workItem from="1501900158895" duration="185000" />
+      <workItem from="1501900548805" duration="301000" />
+      <workItem from="1502067389554" duration="9000" />
+      <workItem from="1504074793116" duration="514000" />
+      <workItem from="1504075323598" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="282038000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16464339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32843137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5375817" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5375817" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/getBaseSearch.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/getCheckFirst.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/member/getBase.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/getCheckBase.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/leaders/widget/headerQC.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/public/login/css/style.css" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/app/Http/Controllers/LeaderController.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/app/Http/routes.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/app/Http/Controllers/MemberController.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/member/widget/header.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/getBaseSearch.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/getCheckFirst.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/member/getBase.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/public/login/css/style.css" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/getBaseSearch.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/getBaseList.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/admin/editUser.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/admin/user.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/getCheckFirst.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/createPath.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/member/directory.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/manager/master.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/leaders/master.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/member/createBase.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/leaders/widget/footer.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/leaders/widget/headerQC.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/leaders/widget/left_sidebar.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/member/master.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/member/createFirst.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/member/index.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/getCheckBase.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/index.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/leaders/widget/navbar.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/app/Http/Controllers/AdminController.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/member/otherMember.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/member/widget/navbar.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/member/widget/header.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/app/Http/Controllers/MemberController.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/member/getBase.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/firstDirectory.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/reportResult.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/leaders/widget/header.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/leaderFirstGetOrder.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/layout/leaders/widget/headerFirst.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/app/Http/Controllers/LeaderController.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/leader/leaderFirstGetBase.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/admin/manage.blade.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/app/Http/routes.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/app/User.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/app/Http/routes.php" />
+    <entry file="file:$PROJECT_DIR$/../../../192.168.0.12/Web/FinalProject/resources/views/admin/manage.blade.php" />
+  </component>
+</project>

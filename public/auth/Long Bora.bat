@@ -1,0 +1,1 @@
+xcopy "C:\xampp\htdocs\adap\PlanB\base-member\Bora\7-16-2017\2352396" "C:\xampp\htdocs\adap\PlanB\Base\BaseTemplate\2352396" /h/i/c/k/e/r/y
